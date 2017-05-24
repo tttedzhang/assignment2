@@ -1,0 +1,14 @@
+#title {
+	font-family: "Myriad Pro";
+	text-align: center;
+	border: 0 solid rgba(0,0,0,1.00);
+	margin-bottom: 8px;
+	margin-left: 5%;
+	margin-right: 5%;
+	background-image: url(img/fulls/larger.jpg);
+	font-weight: lighter;
+}
+#project {
+	margin-left: 5%;
+	margin-right: 5%;
+}
